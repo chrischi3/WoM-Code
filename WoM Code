@@ -1,0 +1,74 @@
+<link href="https://fonts.gstatic.com" rel="preconnect" />
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&amp;display=swap" rel="stylesheet" />
+<style type="text/css">/*Scrollbar*/
+::-webkit-scrollbar {width: 6px;}
+::-webkit-scrollbar-thumb {background: hidden;}
+::-webkit-scrollbar-thumb:hover {background: hidden;}
+ 
+ 
+  .box{
+    height:55px;
+    width:250px;
+    padding:15px;
+    background:white;
+    overflow:auto;
+    transition:1.2s;
+    border: solid #000 3px;
+ 
+  }
+
+  .box:hover{
+    height:170px;
+   
+  }
+ 
+ /*Credit styling ^^ Dont touch this, please*/
+ 
+.credits:hover {
+    letter-spacing:3px;
+    text-shadow: 2px 1px 5px #000;
+    transition:0.5s;
+}
+</style>
+<div style="background:url(https://64.media.tumblr.com/585d97abe5c553da79e1c58d4b20b173/a7368d4093a7d10e-b8/s1280x1920/887eb2ee1389c2e48c6d89933999422fecd4cb2d.jpg);padding:40px; text-align: justify;">
+<div style="background:rgba(225,225,225,1);padding:30px;font-family:Spectral;overflow:auto;border:5px double black;border-radius:10px">
+<center>
+<p style="font-family:Pacifico;font-size:35px">Language Families<br />
+Year 1- Week 1</p>
+</center>
+
+<p><span style="color:#000;font-family:Courier New;">A class of several recruits, both young and old, slowly shuffled into the training room for the Modern and Ancient Languages course. Not a course for everyone, but it always attracted the attention of some recruits. After everyone had found their seat, their Trainer, Damian Bain, entered the room. He was a man in his early 20s, with red hair and an equally red beard, which was short, but neatly trimmed. While he only taught a language course, anyone who dared a look into his eyes would soon come to understand that he was not one to be messed with, even though the rest of his appearance didn&#39;t give the impression that he was much of a fighter.<br />
+<br />
+&quot;Morning class.&quot; he said, as he power walked up to the front of the classroom, &quot;I&#39;m Mr. Bain, and judging by my books, you should be my unfortunate victims today. Just kidding.&quot; Some recruits chuckled, others looked like the only thing they would be victims of was this mans humor. &quot;Right, let&#39;s start with something simple, shall we? Language families.&quot; A hand went up.<br />
+<br />
+&quot;Yes, you over there.&quot; he asked that same recruit. &quot;A language family?&quot; the girl asked, &quot;My family speaks a lot of languages.&quot; &quot;Interesting, but not what i&#39;m talking about.&quot; he replied. &quot;See, even if you don&#39;t speak that many languages, you might notice every once in a while that some languages, such as German and Dutch, or Italian and Spanish-&quot; &quot;and Romanian!&quot; interjected a curly haired boy, &quot;- yes, and also Romanian&quot; he agreed, while also glaring at the boy, &quot;What I meant to say was that some languages sound more alike one another than some others. This is because these languages are related. Let&#39;s take, say, the romance languages as an example.&quot;<br />
+<br />
+Some recruits chuckled at the mention of the word romance. &quot;Yes, yes, laugh all you want,&quot; Trainer Bain nodded, &quot;But that is a real language family.&quot; he decided not to point out the fact that some language families had less fortunate names than that one. &quot;In fact, it is one of the biggest in terms of speakers. Prominent members today include Spanish, Italian, French, Portugese, and, before I get that objection again-&quot; he said, looking over at the boy who interrupted him earlier, &quot;also Romanian. Now, all of these languages have one thing in common. They are all descended of the same language, the ancient language of Latin, spoken by the inhabitants of a little city state in Italy that went on to conquer everything from Portugal to parts of Arabia at it&#39;s peak. That city is actually still around to this day, it&#39;s called Rome, you might have heard of it.&quot; Some recruits chuckled again.<br />
+<br />
+&quot;Now, when I say descended, I mean they evolved.&quot; he went on to explain, &quot;But don&#39;t let the word &#39;evolve&#39; fool you into thinking that one day, all Latin speakers in Italy suddenly decided to stop speaking Latin and start speaking Italian instead. The same way you wouldn&#39;t expect a tyrannosaurus to one day lay an egg and see a chicken hatch from it, languages don&#39;t work like that. Rather, it&#39;s a gradual process that involves many steps. One person starts pronouncing something different from everyone else. Their way of pronouncing then gets traction, and the people around him start doing the same. This way of saying it then spreads and eventually, an entire community views that as the correct way. Add a lot of these changes atop one another, incrementally, over hundreds of years, and that language slowly turns into a new one. Those original speakers from earlier and the new ones wouldn&#39;t understand each other anymore. However, there is no cutoff point where one language stops and the other starts.&quot;<br />
+<br />
+&quot;But how do we get entire families from there?&quot; one of his recruits interjected. &quot;Well, the same way as we do with normal family trees.&quot; Trainer Bain began. &quot;Just like your family tree is not a straight line, neither are language families. Say, we have two communities speaking the same language. However, they are both seperated by a mountain range. At first, their languages would be fairly understandable for both sides. Yet, a change in the language that affects people on one side needn&#39;t affect people on the other. So, over time, their languages would drift apart, even though they started out speaking the same language. Eventually, their speech might become mutually unintelligable, even though they both started out speaking the same language. Thus, we now have two new languages. And theoretically, the same thing could happen again to part of each community. That is how we get entire families of languages. However, keep in mind that they at no single point stopped speaking one language and started speaking another. It&#39;s a fluent process.&quot;<br />
+<br />
+With those words, the bell rang out, announcing the end of the period. &quot;Well, so much for our first day.&quot; he said, &quot;Wasn&#39;t that bad, was it?&quot;</span></p>
+
+<p><br />
+<span style="color:#000;font-family:Courier New;"><b>Assignment: </b><br />
+What is a language family?<br />
+Why do languages change?<br />
+How do language families occur?<br />
+<br />
+<br />
+<b>Requirements: </b><br />
+You may write in any style you want.<br />
+Sources, even your imagination, must be stated. Not doing so will lower your grade.</span><br />
+<br />
+&nbsp;</p>
+
+<center><span style="color:#000;font-family:Courier New;"><img height="115" src="https://fontmeme.com/permalink/211221/98a8655511fbc5159960cbc2ddff6474.png" width="571" /></span></center>
+&nbsp;
+
+<hr /><span style="color:#000;font-family:Courier New;"><!--Please DONOT remove credits--> </span>
+
+<div style="display:block;font-size:13px;color:#000;text-transform:uppercase;text-decoration:none;font-family:Arial;text-align:center;padding:20px;"><span style="color:#000;font-family:Courier New;"><a class="credits" href="https://sophcodes.tumblr.com/" style="text-decoration:none;color:#000;transition:0.5s">Code by Sophia</a></span></div>
+<span style="color:#000;font-family:Courier New;"> </span></div>
+</div>
